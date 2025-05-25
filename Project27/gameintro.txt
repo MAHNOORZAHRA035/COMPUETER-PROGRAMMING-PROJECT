@@ -1,0 +1,3 @@
+Welcome to Pac-Man Game
+Your goal is to collect all pallets.
+Use W, D, S, A for movement.
